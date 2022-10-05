@@ -1,0 +1,16 @@
+# Library Matplotlib
+
+Matplotlib merupakan library dari Python yang umum digunakan untuk visualisasi data. Matplotlib memiliki kapabilitas untuk membuat visualisasi data 2-dimensional.
+
+Contoh visualisasi yang dapat dibuat dengan menggunakan matplotlib diantaranya adalah
+1. Line chart
+2. Bar chart
+3. Pie chart
+4. Box plot chart
+5. Violin chart
+6. Errorbar chart
+7. Scatter chart
+
+Jenis-jenis chart lainnya juga dapat dibuat melalui library ini.
+
+Klik tombol Next untuk melanjutkan.
